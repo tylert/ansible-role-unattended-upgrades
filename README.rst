@@ -5,3 +5,4 @@ Unattended Upgrades Role
 * https://linux-audit.com/using-unattended-upgrades-on-debian-and-ubuntu/
 * https://github.com/debops/debops
 * https://github.com/jnv/ansible-role-unattended-upgrades
+* https://github.com/steadfasterX/arch_uau/
